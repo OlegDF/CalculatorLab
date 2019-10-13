@@ -1,0 +1,6 @@
+[submodule "calculatorsubmodule1"]
+	path = calculatorsubmodule1
+	url = https://github.com/OlegDF/CalculatorSubmodule1.git
+[submodule "calculatorsubmodule2"]
+	path = calculatorsubmodule2
+	url = https://github.com/OlegDF/CalculatorSubmodule2.git
