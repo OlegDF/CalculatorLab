@@ -134,6 +134,8 @@ public class CommandIntaker {
             return Math.PI;
         } else if(word.equals("e")) {
             return Math.E;
+        } else if(word.equals("sqrt2")) {
+            return Math.sqrt(2);
         }
         return null;
     }
